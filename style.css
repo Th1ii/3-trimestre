@@ -1,10 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&display=swap');
+
 :root {
     --cor-principal:#ffd20b;
     --cor-secundaria:#ecf0de;
     --cor-texto:#372b7a;
     --cor-fundo:#37eeb7;
-    --font: "Nunito Sans", sans-serif;;
+    --font: "Fascinate Inline", sans-serif;
 }
 
 body{
